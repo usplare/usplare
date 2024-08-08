@@ -1,13 +1,9 @@
-
 ## Bem-vindo(a) ao perfil do usplare
 
  <div>
-   <a href="https://github.com/## Bem-vindo(a) ao perfil do usplare
-
- <div>
-   <a href="https://github.com/usplare">
+   <a href="https://github.com/wevertonnascimentocoutinho123">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usplare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usplareo&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usplare&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -19,9 +15,6 @@
 <br>
  
 
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=usplare&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usplare&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
     
 
  
